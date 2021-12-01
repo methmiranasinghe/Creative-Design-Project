@@ -446,25 +446,26 @@ html{
     max-width: 100%;
     min-width: 70%;
   }
-  .contact-form input[type="submit"]{
-      background-color: rgba(50,251,255,0.8);
-      color: #fff;
-      font-weight: 300;
-      letter-spacing: 0.5rem;
-      cursor: pointer;
-      transition:background-color 0.5s;
-
+  .contact-form input[type="submit"] {
+    background-color: rgba(50, 231, 255, 0.8);
+    color: #fff;
+    font-weight: bolder;
+    letter-spacing: 0.5rem;
+    cursor: pointer;
+    transition: background-color 0.5s;
   }
-  .contact-form input[type="submit"]:hover{
+  
+  .contact-form input[type="submit"]:hover {
     background-color: #32e7ff;
   }
+  
   
   .copyright{
       font-size: 2rem;
       letter-spacing: 0.2rem;
       color: #444;
       margin-top: 5rem;
-      
+
 
   }
 
