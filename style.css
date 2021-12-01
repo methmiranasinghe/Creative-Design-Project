@@ -17,10 +17,11 @@
 /* 1rem =16px */
 html{
      font-size: 62.5%; /*to reduce 1rem=10px */
-     scroll-behavior: smooth;
+     
 }
 
-body{
+.container{
+    width: 100%;
     overflow-x: hidden; /*to hide to -- scrol bar*/
 
 

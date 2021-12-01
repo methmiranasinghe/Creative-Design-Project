@@ -5,7 +5,9 @@
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
-      "args": [],
+      "args": [
+        ""
+      ],
       "stopAtEntry": false,
       "cwd": "e:/udemy web development course projects/project 2 -Creative Design/Creative Design My Project/Creative-Design-Project",
       "environment": [],
