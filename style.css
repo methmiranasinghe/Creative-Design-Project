@@ -17,6 +17,7 @@
 /* 1rem =16px */
 html{
      font-size: 62.5%; /*to reduce 1rem=10px */
+     scroll-behavior: smooth;
      
 }
 
